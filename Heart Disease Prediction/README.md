@@ -1,1 +1,3 @@
-![](Screenshot (101).png)
+I built this project for Data Mining course.
+
+![](screenshot/1.png)
