@@ -1,2 +1,2 @@
 # Data-Mining
-This repository contains Data Science projects
+This repository contains an ML project of my Data Mining course.
